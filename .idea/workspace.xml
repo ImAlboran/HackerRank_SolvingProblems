@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43298a9a-642d-439c-9376-439cd19cd78f" name="Changes" comment="BirthdayCakeCandles.java" />
+    <list default="true" id="43298a9a-642d-439c-9376-439cd19cd78f" name="Changes" comment="LeftRotation.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/SparseArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697796477550</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="LeftRotation.java">
+      <option name="closed" value="true" />
+      <created>1697797647713</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697797647713</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +146,7 @@
     <MESSAGE value="Initial Commit :&#10;DiagonalDifference.java&#10;PlusMInus.java" />
     <MESSAGE value="Staircase.java" />
     <MESSAGE value="BirthdayCakeCandles.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="BirthdayCakeCandles.java" />
+    <MESSAGE value="LeftRotation.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeftRotation.java" />
   </component>
 </project>
